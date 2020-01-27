@@ -1,0 +1,6 @@
+#ignore all the mentioned files
+*.tmp
+*.log
+*.pyc
+*.o
+*.class
